@@ -4,7 +4,7 @@
 - (ML) M298D4KY3048 - Dewa Komang Reiki Perdana Wisnu
 - (ML) M006D4KY2604 - Kelvin Nazrey Rizmawan
 ## About The Project
-The machine learning aspect involves enabling the app to recognize Balinese Dance via image scans from the camera. To facilitate object detection, we plan to use pretrained models like Custome CNN TensorFlow for neural networks, PIL for image preprocessing, NumPy for data manipulation, and scikit-learn for model evaluation.
+The machine learning aspect involves enabling the app to recognize Balinese Dance via image scans from the camera. To facilitate object detection, we plan to use pretrained models like Custome CNN. TensorFlow for neural networks, PIL for image preprocessing, NumPy for data manipulation, and scikit-learn for model evaluation.
 
 Libraries Requirement:
 1. TensorFlow (Deep learning framework for building neural networks.)
