@@ -3,7 +3,7 @@
 - (ML) M174D4KY2772 - Anak Agung Gede Ari Saputra
 - (ML) M298D4KY3048 - Dewa Komang Reiki Perdana Wisnu
 - (ML) M006D4KY2604 - Kelvin Nazrey Rizmawan
-  ## About The Project
+## About The Project
 The machine learning aspect involves enabling the app to recognize Balinese Dance via image scans from the camera. To facilitate object detection, we plan to use pretrained models like YOLO or Faster R-CNN, TensorFlow for neural networks, OpenCV for image preprocessing, NumPy for data manipulation, and scikit-learn for model evaluation.
 
 Libraries Requirement:
