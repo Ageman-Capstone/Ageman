@@ -4,5 +4,15 @@
 - (ML) M298D4KY3048 - Dewa Komang Reiki Perdana Wisnu
 - (ML) M006D4KY2604 - Kelvin Nazrey Rizmawan
   ## About The Project
-This project built a CNN model in <a href="https://colab.research.google.com"><img src="https://cdn.jsdelivr.net/gh/shubhamparmar1/License-Plate-Detection-using-Deep-Learning/.config/colab1.png" alt="Google Colab" width = 90px></a>. and we ensured at least 250 data points per label and preprocessed datasets which included displaying data distribution (90% for training, 5% for validation, and 5% for testing), showcasing some data examples, and conducting data augmentation.. After training on TensorFlow and Keras, the model was saved (.h5) and converted (JSON) for mobile app integration.
+The machine learning aspect involves enabling the app to recognize Balinese Dance via image scans from the camera. To facilitate object detection, we plan to use pretrained models like YOLO or Faster R-CNN, TensorFlow for neural networks, OpenCV for image preprocessing, NumPy for data manipulation, and scikit-learn for model evaluation.
+
+Libraries Requirement:
+1. TensorFlow (Deep learning framework for building neural networks.)
+2. tfjs (For running machine learning models directly in web browsers)
+3. OpenCV (For preprocessing image data.)
+4. Keras (High-level neural networks API commonly paired with TensorFlow for simplified model development.)
+5. NumPy (For data manipulation and numerical operations.)
+6. scikit-learn (For data preprocessing, feature extraction, and model evaluation.)
+7. Matplotlib (For creating static, animated, and interactive visualizations.)
+8. Seaborn (Library for visualizing data.) 
 ## Data Set 
