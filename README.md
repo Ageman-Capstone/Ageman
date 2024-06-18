@@ -9,7 +9,7 @@ The machine learning aspect involves enabling the app to recognize Balinese Danc
 Libraries Requirement:
 1. TensorFlow (Deep learning framework for building neural networks.)
 2. tfjs (For running machine learning models directly in web browsers)
-3. PIL (For preprocessing image data.)
+3. Pillow (For preprocessing image data.)
 4. Keras (High-level neural networks API commonly paired with TensorFlow for simplified model development.)
 5. NumPy (For data manipulation and numerical operations.)
 6. scikit-learn (For data preprocessing, feature extraction, and model evaluation.)
