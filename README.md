@@ -16,3 +16,21 @@ Libraries Requirement:
 7. Matplotlib (For creating static, animated, and interactive visualizations.)
 8. Seaborn (Library for visualizing data.) 
 ## Data Set 
+The data or dataset used in this machine learning project is self-generated data or image scraping from Google Image,Youtube and Tari Classification from Roboflow.
+Here the link of Roboflow : https://universe.roboflow.com/nur-widyastomo/tari-classification/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+
+![image](https://github.com/Ageman-Capstone/Machine-learning/assets/102736909/b0ce5958-1ba5-409f-838a-7f0d2267860e)
+
+There are 7 labels, the number of each label is 250 images, and has a total number of images of 1750 image, and preprocessed datasets which included displaying data distribution (90% for training, 5% for validation, and 5% for testing) 
+Each label is :
+- Baris
+- Pendet penyambutan
+- Janger
+- Condong
+- Barong
+- Rejang Sari
+- Kecak
+
+![image](https://github.com/Ageman-Capstone/Machine-learning/assets/102736909/0292f46f-9b7a-4c38-824b-a7b00a485db1) 
+
+
