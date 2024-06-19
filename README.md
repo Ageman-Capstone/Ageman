@@ -18,6 +18,7 @@ Libraries Requirement:
 ## Data Set 
 The data or dataset used in this machine learning project is self-generated data or image scraping from Google Image,Youtube and Tari Classification from Roboflow.
 Here the link of Roboflow : https://universe.roboflow.com/nur-widyastomo/tari-classification/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+Here the link of our dataset : https://drive.google.com/file/d/1LuRtTPlCUq_a2PR10UXu5kpU7ATldElU/view?usp=sharing
 
 ![image](https://github.com/Ageman-Capstone/Machine-learning/assets/102736909/b0ce5958-1ba5-409f-838a-7f0d2267860e)
 
