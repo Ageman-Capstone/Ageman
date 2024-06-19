@@ -17,6 +17,7 @@ Libraries Requirement:
 8. Seaborn (Library for visualizing data.) 
 ## Data Set 
 The data or dataset used in this machine learning project is self-generated data or image scraping from Google Image,Youtube and Tari Classification from Roboflow.
+
 Here the link of Roboflow : https://universe.roboflow.com/nur-widyastomo/tari-classification/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 Here the link of our dataset : https://drive.google.com/file/d/1LuRtTPlCUq_a2PR10UXu5kpU7ATldElU/view?usp=sharing
